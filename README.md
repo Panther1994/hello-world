@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<t>Result</t>
+		<t>Spectrum</t>
 	</head>
-	<body><h1>YEAH SANDWICHES</h1>
-	<img src="http://bit.ly/RhrMEn" />
-		<p>I like eggs.</p>
-		<p>And ham!</p>
-		<p>But mostly sandwiches.</p>
+	<body><h1>Website</h1>
+	<img src="https://static.pexels.com/photos/216959/pexels-photo-216959.jpeg" />
+		<p>We will learn to code.</p>
+		<p>and pubish</p>
+		<p>Basic websites.</p>
 	</body>
 </html>
