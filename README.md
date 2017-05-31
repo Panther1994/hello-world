@@ -1,16 +1,13 @@
-# hello-world
-test page
-kerry is a teacher
-snickers is a dog
+<!DOCTYPE html>
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Result</title>
+		<title>Spectrum</title>
 	</head>
-	<body><h1>YEAH SANDWICHES</h1>
-	<img src="http://bit.ly/RhrMEn" />
-		<p>I like eggs.</p>
-		<p>And ham!</p>
-		<p>But mostly sandwiches.</p>
+	<body><h1>test page</h1>
+	<img src="http:https://www.pexels.com/photo/rainbow-after-sunset-216959/>
+		<p>Fun with Code.</p>
+		<p>Learn to make a page</p>
+		<p>Publish the page</p>
 	</body>
 </html>
